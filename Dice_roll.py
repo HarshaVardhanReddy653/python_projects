@@ -10,6 +10,4 @@ while True:
     elif choice == "no":
         print("Thank you for playing!")
         break
-    else:
-        print("Invalid choice! Please enter 'yes' or 'no'.")
     
