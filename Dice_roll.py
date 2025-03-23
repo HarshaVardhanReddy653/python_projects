@@ -1,7 +1,7 @@
 import random
 
 while True:
-    choice = input("Roll the Dice (yes/No): ").lower()
+    choice = input("Roll the Dice (yes/No): ")
     
     if choice == "yes":
         die1 = random.randint(1, 6)
